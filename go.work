@@ -1,0 +1,9 @@
+go 1.21.4
+
+use (
+	./learn/conversions
+	./learn/read
+	./learn/time_go
+	./learn/userinput
+	./learn/variables
+)
